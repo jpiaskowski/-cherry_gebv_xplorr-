@@ -1,0 +1,35 @@
+ID,Name
+BloomDateJulian,Bloom Date
+BloomTimeGDD.new,Bloom Time
+Blush.Skin.Color,Blush Skin Color
+Bulked.fruit.Firmness,Bulked Fruit Firmness
+Bulked.fruit.SSC,Bulked SSC
+Bulked.Fruit.Weight,Bulked Fruit Weight
+Firmness,Firmness
+Flesh.Color,Flesh Color
+Free.Stone,Free Stone
+Fruit.Length,Fruit Length
+Fruit.Shape,Fruit Shape
+Fruit.Size,Fruit Dimensions
+Fruit.Weight,Fruit Weight
+Fruit.Width,Fruit Width
+HarvestDateJulian,Harvest Date
+HarvestTimeGDD.new,Harvest Time
+Mahogany.Skin.Color,Mahogany Skin Color
+Perc.Cracking,Percent Cracking
+Perc.Pitting,Percent Pitting
+PFRF,PFRF
+pH,NA
+Pit.Length,Pit Length
+Pit.Weight,Pit Weight
+Pit.Width,Pit Width
+PM,Powdery Mildew Incidence
+Spec.Flesh.Color.b,NA
+Spec.Flesh.Color.L,NA
+Spec.Skin.Color.b,NA
+Spec.Skin.Color.L,NA
+Spect.Skin.Color.a,NA
+Spectr.Flesh.Color.a,NA
+SSC,SSC
+Stem.Length,Stem Length
+TA,TA
